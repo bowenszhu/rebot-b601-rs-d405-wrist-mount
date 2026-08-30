@@ -1,0 +1,15 @@
+{
+  "cradle_center_x_mm": 0.0014555241296942967,
+  "cradle_x_max_mm": 23.00145562412971,
+  "cradle_x_min_mm": -22.998544575870323,
+  "pair_offset_from_cradle_center_x_mm": 1.000000000000015,
+  "realsense_reference": "https://realsenseai.com/wp-content/uploads/2025/09/Intel-RealSense-D400-Series-Datasheet-October-2025.pdf#page=146",
+  "required_correction_x_mm": -1.000000000000015,
+  "source_step": "hardware/vendor/seeed-rebot-devarm/D405_305_Mount.step",
+  "through_hole_axes_x_mm": [
+    -8.99854447587028,
+    11.0014555241297
+  ],
+  "through_hole_pair_center_x_mm": 1.0014555241297094,
+  "through_hole_spacing_mm": 19.99999999999998
+}

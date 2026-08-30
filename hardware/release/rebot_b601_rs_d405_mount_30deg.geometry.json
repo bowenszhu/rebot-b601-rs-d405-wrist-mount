@@ -1,0 +1,47 @@
+{
+  "adapter_to_base_overlap_mm3": 2002.3356940072042,
+  "adapter_to_cradle_overlap_mm3": 750.8753293742177,
+  "angle_deg": 30.0,
+  "bottom_ledge_gap_mm": 0.0,
+  "camera_back_gap_mm": 0.0,
+  "camera_counterbore_diameter_mm": 6.0,
+  "camera_cradle_mirrored": false,
+  "camera_hole_pattern_correction_x_mm": -1.0,
+  "camera_hole_spacing_mm": 20.0,
+  "camera_lateral_shift_mm": -9.0,
+  "camera_through_clearance_diameter_mm": 3.6,
+  "camera_up": [
+    0.0,
+    0.8660254037844387,
+    0.49999999999999994
+  ],
+  "cradle_vs_seeed_symmetric_difference_mm3": 0.0,
+  "d405_corner_radius_mm": 4.5,
+  "d405_dimensions_mm": [
+    42.0,
+    42.0,
+    23.0
+  ],
+  "left_imager_x_mm": 0.0014555241296942967,
+  "new_adapter_camera_collision_volume_mm3": 0.0,
+  "official_cradle_camera_overlap_mm3": 0.026516388399761115,
+  "optical_forward": [
+    0.0,
+    -0.49999999999999994,
+    0.8660254037844387
+  ],
+  "screw_center_mm": [
+    -8.998544475870306,
+    72.0706435501094,
+    -2.5469999471529388
+  ],
+  "seeed_camera_hole_pattern_center_x_mm": 1.0014555241296943,
+  "seeed_camera_hole_pattern_offset_x_mm": 1.0,
+  "source_cradle_center_x_mm": 0.0014555241296942967,
+  "source_hole_fill_volume_mm3": 212.12033029045728,
+  "tip_relief_radius_mm": 0.5,
+  "tip_relief_x_mm": 17.5,
+  "transformed_cradle_camera_overlap_mm3": 0.02647847352349764,
+  "transition_gap_filled": true,
+  "usb_opening_matches_seeed_reference": true
+}

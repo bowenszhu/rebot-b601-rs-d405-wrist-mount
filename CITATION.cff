@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this mount or its design analysis, please cite this repository and credit Bowen Zhu."
+title: "reBot B601-RS D405 Wrist Mount"
+type: software
+authors:
+  - family-names: Zhu
+    given-names: Bowen
+repository-code: "https://github.com/bowenszhu/rebot-b601-rs-d405-wrist-mount"
+version: 1.0.0
+date-released: 2026-08-30
+license: CERN-OHL-W-2.0
+keywords:
+  - reBot B601-RS
+  - RealSense D405
+  - wrist camera
+  - eye-in-hand
+  - embodied AI
+  - MuJoCo

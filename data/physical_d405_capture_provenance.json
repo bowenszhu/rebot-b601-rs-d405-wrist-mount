@@ -1,0 +1,39 @@
+{
+  "comparison_scope": "Qualitative physical view comparison; capture dates, illumination, and robot poses were not controlled.",
+  "stock_15deg": {
+    "capture_date": "2026-08-24",
+    "mount": "Seeed-derived stock mount, approximately 15 degrees",
+    "stream": "D405 RGB, 640x480 at 30 fps",
+    "source_video_local_path": "datasets/b601_blue_cube_trials_rgb_v1/videos/observation.images.wrist_rgb/chunk-000/file-000.mp4",
+    "source_video_sha256": "476fa8e78324d915d1b127cd5091f40c2c82da3822e49fa8aa423c0191fbdb45",
+    "extracted_timestamp_s": 10.0,
+    "published_rgb": "docs/assets/camera/d405-stock15-rgb.png",
+    "published_rgb_sha256": "4e33b896bbddda8feffaae3d20a5404d49cdafd18dd5382c95d12a74b8b48a92",
+    "depth_recorded": false
+  },
+  "redesigned_30deg": {
+    "capture_time_utc": "2026-08-30T10:33:58.889467+00:00",
+    "mount": "Redesigned 30-degree mount",
+    "streams": "D405 RGB and depth, 640x480 at 30 fps; depth aligned to RGB",
+    "warmup_frames": 120,
+    "published_rgb": "docs/assets/camera/d405-redesigned30-rgb.png",
+    "published_rgb_sha256": "a7580cecbb55d271d443de233310b65ba266fb66fb7abff70671871a6edb399f",
+    "published_depth_u16": "docs/assets/camera/d405-redesigned30-depth-u16.png",
+    "published_depth_u16_sha256": "1c01c2d4e6cc9f93710fe1bc8e2114177cf98a775d6806d168e34925e22b3aaf",
+    "published_depth_colorized": "docs/assets/camera/d405-redesigned30-depth-colorized.png",
+    "published_depth_colorized_sha256": "6edcba6bbd12313450800a6ab486394336d9364e57dbc7eb076523b64f6bfaf4",
+    "depth_scale_m_per_unit": 0.00009999999747378752,
+    "valid_depth_fraction": 0.7329361979166666,
+    "depth_visualization_range_m": [
+      0.04,
+      0.5
+    ],
+    "rgb_intrinsics": {
+      "fx": 393.614501953125,
+      "fy": 393.03887939453125,
+      "ppx": 323.2411804199219,
+      "ppy": 235.9874725341797,
+      "distortion_model": "inverse_brown_conrady"
+    }
+  }
+}

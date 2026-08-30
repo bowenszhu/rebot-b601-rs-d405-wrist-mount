@@ -1,0 +1,9 @@
+name: rebot-d405-cad
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cadquery=2.7
+  - vtk=9.3
+  - numpy=2.4
+  - pillow

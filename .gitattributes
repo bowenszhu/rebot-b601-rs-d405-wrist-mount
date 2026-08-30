@@ -1,0 +1,9 @@
+*.step binary
+*.stl binary
+*.png binary
+*.jpg binary
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
